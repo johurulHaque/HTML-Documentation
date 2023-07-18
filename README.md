@@ -9,3 +9,6 @@
 **text**
   ## **This text is highlighted**
 
+```diff
+- This text is in red
++ This text is in green
