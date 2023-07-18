@@ -2,6 +2,7 @@
 # Heading 1
 ## Heading 2
 ### Heading 3
+- <span style="color: green">This text is green.</span>
 <!-- Formation -->
 This is *italic* text,
 This is _italic_ text.
@@ -18,7 +19,7 @@ ___
 > block quote
 
 <!-- link -->
-[URL](url "title")
+[name](url "title")
 
 <!-- list -->
 <!-- ul -->
@@ -61,7 +62,7 @@ function sum(a,b){
 ## Plugins
 
 The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin)
 
 
 
