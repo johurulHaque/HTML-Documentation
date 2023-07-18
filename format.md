@@ -45,6 +45,11 @@ function sum(a,b){
 }
 ```
 
+```diff
+- This text is in red
++ This text is in green
++ This text is in green
+
 ## Tables
 
 | Option | Description |
