@@ -1,6 +1,9 @@
 # HTLM Documentation
 ## Table of Contents
+<<<<<<< HEAD
 ## Table of Contents
+=======
+>>>>>>> bba8a1a667889d6d53413eff0d199c8373b66d5e
 1. [Difference between HTML Element and Tag?](#1-html-element-vs-tag)
 
 ## 1. Difference between HTML Element and Tag?
@@ -12,4 +15,8 @@
 
 ```diff
 - This text is in red
+<<<<<<< HEAD
 + This text is in green
+=======
++ This text is in green
+>>>>>>> bba8a1a667889d6d53413eff0d199c8373b66d5e
